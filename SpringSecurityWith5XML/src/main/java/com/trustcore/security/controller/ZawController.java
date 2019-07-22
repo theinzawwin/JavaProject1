@@ -12,8 +12,13 @@ public class ZawController {
 	public void zhin() {
 		System.out.println("Zaw Hein");
 	}
+
 	public void test3() {
 		System.out.println("Test");
+	}
+	public void next(){
+		System.out.println("Next");
+
 	}
 }
 
