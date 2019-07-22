@@ -20,8 +20,14 @@ public class ZawController {
 		System.out.println("Next");
 
 	}
+	public void next2(){
+		System.out.println("Next 2");
+	}
 	public void next3() {
 		System.out.println("Next 3");
+	}
+	public void next4(){
+		System.out.println("Next 4");
 	}
 	public void next5() {
 		System.out.println("Next 5");
