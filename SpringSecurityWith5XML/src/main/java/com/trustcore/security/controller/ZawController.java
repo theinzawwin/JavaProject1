@@ -23,5 +23,8 @@ public class ZawController {
 	public void next3() {
 		System.out.println("Next 3");
 	}
+	public void next5() {
+		System.out.println("Next 5");
+	}
 }
 
